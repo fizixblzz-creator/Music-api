@@ -1,0 +1,6 @@
+node_modules
+.env
+cache
+cookies.txt
+*service-account*.json
+.git
